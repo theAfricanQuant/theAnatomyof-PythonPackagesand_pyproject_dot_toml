@@ -169,6 +169,6 @@ By following these steps, you ensure that your package is easy to build, share, 
 ---
 _For more details and advanced usage of uv check out the [Astral: uv website](https://astral.sh/blog/uv-unified-python-packaging) for more details_.
 
-_Check out the [YouTube video](https://youtu.be/m2EAQk4Qlew?list=TLGG2rl4SMhLZwswMjAyMjAyNQ) I followed as a guide._
+_Check out the [YouTube video](https://youtu.be/m2EAQk4Qlew?list=TLGG2rl4SMhLZwswMjAyMjAyNQ) I used as a guide for this demo project. Note, I made adjustments using uv which was not used in the original_
 
 
