@@ -1,0 +1,13 @@
+[project]
+name = "project2"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11.3"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "project1",
+]
+
+[tool.uv.sources]
+project1 = { path = "../Project1/dist/project1-0.1.0-py3-none-any.whl" }
